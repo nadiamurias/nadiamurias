@@ -1,5 +1,6 @@
 # Welcome to my GitHub!👋 
 
+
 ## 🚀 About me 
 
 Hi there! Im Nadia and passionate about the digital world and new technologies. I am eager to continue learning in this new environment.
@@ -25,21 +26,11 @@ I enjoy working in a team, learning from others and contributing with my creativ
 
 ## 📫  How to reach me 
 
-![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='100px'}
-![](https://github.com/nadiamurias)
+![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width=100px height=100px}
+![]file:///Users/nadia/Downloads/github.svg)
 
 ---
 ⌨️ con ❤️ por [Nadia Murias](https://github.com/nadiamurias) 😊
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
