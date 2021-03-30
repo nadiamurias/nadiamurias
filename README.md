@@ -26,7 +26,7 @@ I enjoy working in a team, learning from others and contributing with my creativ
 
 ## 📫  How to reach me 
 
-![](///Users/nadia/Downloads/github.svg)
+![](/Users/nadia/Downloads/github.svg)
 
 ---
 ⌨️ con ❤️ por [Nadia Murias](https://github.com/nadiamurias) 😊
