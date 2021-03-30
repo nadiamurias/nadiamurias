@@ -3,7 +3,7 @@
 
 ## 🚀 About me 
 
-Hi there! Im Nadia and passionate about the digital world and new technologies. I am eager to continue learning in this new environment.
+Hi there! Im Nadia, passionate about the digital world and new technologies. I am eager to continue learning in this new environment.
 
 After 4 years of experience as a web analyst I felt the need to evolve and grow towards a more technical profile. Thanks to my positive attitude, commitment and perseverance I have achieved my goal of becoming a front end developer.
 
@@ -26,7 +26,7 @@ I enjoy working in a team, learning from others and contributing with my creativ
 
 ## 📫  How to reach me 
 
-![](file:///Users/nadia/Downloads/github.svg)
+![](///Users/nadia/Downloads/github.svg)
 
 ---
 ⌨️ con ❤️ por [Nadia Murias](https://github.com/nadiamurias) 😊
