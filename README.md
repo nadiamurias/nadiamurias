@@ -29,7 +29,7 @@ I enjoy working in a team, learning from others and contributing with my creativ
 ![](/Users/nadia/Downloads/github.svg)
 
 ---
-⌨️ con ❤️ por [Nadia Murias](https://github.com/nadiamurias) 😊
+con ❤️ por [Nadia Murias](https://github.com/nadiamurias) 😊
 
 
 
