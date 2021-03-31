@@ -26,9 +26,9 @@ I enjoy working in a team, learning from others and contributing with my creativ
 
 ## 📫  How to reach me 
 
-[linkedin Nadia Murias](https://www.linkedin.com/in/nadiamurias/)
-[Twitter Nadia Murias](https://twitter.com/NadiaMurias)
-[GitHub Nadia Murias](https://github.com/nadiamurias)
+[Linkedin](https://www.linkedin.com/in/nadiamurias/)
+[Twitter](https://twitter.com/NadiaMurias)
+[GitHub](https://github.com/nadiamurias)
  
 
 
