@@ -29,8 +29,6 @@ I enjoy working in a team, learning from others and contributing with my creativ
 [Linkedin](https://www.linkedin.com/in/nadiamurias/)
 [Twitter](https://twitter.com/NadiaMurias)
 [GitHub](https://github.com/nadiamurias)
- 
-
 
 ---
 con ❤️ por [Nadia Murias](https://github.com/nadiamurias) 😊
