@@ -30,6 +30,11 @@ I enjoy working in a team, learning from others and contributing with my creativ
 [Twitter](https://twitter.com/NadiaMurias)
 [GitHub](https://github.com/nadiamurias)
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/nadiamurias)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nadiamurias/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/Nadiamurias/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nadiamurias@gmail.com)
+
 ---
 con ❤️ por [Nadia Murias](https://github.com/nadiamurias) 😊
 
